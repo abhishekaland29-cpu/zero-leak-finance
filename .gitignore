@@ -6,3 +6,6 @@ dist/
 # IDE and OS files
 .DS_Store
 .vscode/
+
+server/uploads/*
+!.gitkeep
